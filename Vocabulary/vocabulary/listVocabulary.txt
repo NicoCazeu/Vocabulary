@@ -1,0 +1,1378 @@
+shipping;le transport maritime
+enclosed;enfermé;
+performed;effectué
+venues;lieux
+fuel;carburant
+commuter train;train de banlieue
+steadily;régulièrement
+cheaply;à bon marché
+household;les occupants
+substanstially;considérablement
+prohibited;interdit
+debt;dette
+invoice;facture
+timetables;calendrier
+steel;acier
+eagerly;vivement
+coastal towns;villes côtières
+conglomerate;s'agglomérer
+Regardless;indépendamment
+flavorings;assaisonnement
+pace;rythme
+retain;conserver
+vicinity;voisinage
+convenience;commodité
+redeemed;racheter
+remain;rester
+entitled;intitulé
+incurred;engagé
+Upon;sur
+lodging;hébergement
+incentive;motivation
+in spite of;malgré
+pick up;ramasser
+a receptionist;un réceptionniste
+a lawyer;un avocat (la personne)
+a solicitor;un notaire
+a dentist;un dentiste
+an accountant;un comptable
+a teacher;un enseignant
+a nurse;une infirmière
+a chemist;un pharmacien
+an optician;un opticien
+a surgeon;un chirurgien
+an engineer;un ingénieur
+a civil servant;un fonctionnaire
+a salesman;un vendeur
+a sales representative;un commercial
+a manager;un manager, un gérant
+a personnel manager;un chef du personnel
+a marketing director;un directeur marketing
+a lecturer;un maître de conférence
+a physiotherapist;un physiothérapeute
+a psychiatrist;un psychiatre
+a buyer;un acquéreur
+an architect;un architecte
+a writer;un écrivain
+a painter;un peintre
+a decorator;un décorateur
+a builder;un entrepreneur
+a taxi driver;un chauffeur de taxi
+a hairdresser;un coiffeur
+a lorry driver;un camionneur
+a policeman;un officier de police
+a store manager;un directeur de magasin
+an office worker;un employé de bureau
+a secretary;une secretaire
+a pilot;un pilote
+a shopkeeper;un commerçant
+a shop assistant;un vendeur
+a barber;un barbier
+an air hostess;une hôtesse de l'air
+a temporary worker;un intérimaire
+a fireman;un pompier
+a baker;un boulanger
+a telephonist;un standardiste
+a bank manager;un directeur de banque
+a travel agent;un agent de voyages
+an estate agent;un agent immobilier
+a waiter;un serveur
+a director;un responsable, un chef de projet
+a musician;un musicien
+an actor;un acteur
+a playwriter;un dramaturge
+a model;un mannequin
+a singer;un chanteur
+a dancer;un danseur
+a politician;un politicien
+a cook;un cuisinier
+a housewife;un femme au foyer
+unemployed;sans emploi
+a florist;un fleuriste
+a mechanic;un mécanicien
+an artist;un artiste
+a carpenter;un charpentier
+a factory worker;un ouvrier d'usine
+a traffic warden;une contractuelle
+an electrician;un électricien
+a cleaner;un technicien de surface
+a photographer;un photographe
+a translator;un traducteur
+a plumber;un plombier
+a social worker;un assistant social
+a carer;un aide à domicile
+a gardener;un jardinier
+a nanny;une nourrice
+a barman;un barman
+a soldier;un soldat
+a sailor;un marin
+a postman;un facteur
+a farmer;un fermier
+a butcher;un boucher
+a journalist;un journaliste
+a bus driver;un chauffeur de bus
+a vet;un vétérinaire
+a driving instructor;un moniteur d'auto-école
+a programmer;un programmeur
+a graphic designer;un graphiste
+a web designer;un créateur de site web
+to be self-employed;être son propre patron
+the labour force;la main d'oeuvre
+a wage earner;un salarié
+skilful;adroit
+unskilled;non qualifié
+the hierarchy;la hiérarchie
+the boss;le patron
+the employer;l'employeur
+a wage;un salaire
+the paid holidays;les congés payés
+an unpaid leave;un congé sans solde
+the social welfare;la sécurité sociale
+the social security benefits;les prestations sociales
+the professional classes;les professions libérales
+the working class;la classe ouvrière
+a blue-collar worker;un col bleu (travailleur manuel)
+a white-collar worker;un col blanc (employé de bureau)
+a factory worker;un ouvrier d'usine
+an apprentice;un apprenti
+a technician;un technicien
+an executive;un cadre (employé)
+an engineer;un ingénieur
+a mechanic;un mécanicien
+a craftsman;un artisan
+an electrician;un électricien
+a joiner;un menuisier
+a plasterer;un plâtrier
+a glazier;un vitrier
+a locksmith;un serrurier
+a carpenter;un charpentier
+a plumber;un plombier
+a bricklayer;un maçon
+a window cleaner;un laveur de carreau
+a dustman;un éboueur
+a lorry driver;un camionneur
+a postman;un postier
+a civil servant;un fonctionnaire
+a bank clerk;un employé de banque
+a secretary;une secretaire
+a shopkeeper;un commerçant
+a cashier;un caissier
+a waiter;un serveur
+a cook;un cuisinier
+a hairdresser;un coiffeur
+a journalist;un journaliste
+a businessman;un homme d'affaire
+an artist;un artiste
+a musician;un musicien
+a conductor;un chef d'orchestre
+a writer;un écrivain
+a pilot;un pilote
+a dentist;un dentiste
+a chemist;un pharmacien
+a surgeon;un chirurgien
+a nurse;une infirmière
+an architect;un architecte
+a judge;un juge
+a lawyer;un avocat (la personne)
+a solicitor;un notaire
+to look for a job;chercher du travail
+a job seeker;un demandeur d'emploi
+to weaken;affaiblir
+to read the small ads;lire les petites annonces
+to fill in an application form;remplir une demande
+to give sb a chance;donner sa chance à qqun
+to call sb for an interview;convoquer qqun pour une entrevue
+a vacancy;un poste vacant
+to hire sb;embaucher qqun
+to recruit;recruter
+the necessary qualifications;les aptitudes nécessaires
+the abilities;les compétences
+the know-how;le savoir-faire
+a vocation;une vocation
+a dead-end job;un travail sans débouchés
+a part-time job;un travail à temps partiel
+a full-time job;un travail à temps plein
+the job security;la sécurité d'emploi
+the adaptability;la faculté d'adaptation
+on-the-job training;formation sur le tas
+a voluntary work;un bénévolat
+to earn one's living;gagner sa vie
+to have the opportunity to do sth;avoir l'occasion de faire qqch
+to compete for a job;rivaliser pour un emploi
+to strive on;faire son possible pour
+to reach one's goal;atteindre son but
+to take responsibilities;prendre des responsabilités
+to toil;travailler dur
+to devote one's life to one's job;consacrer sa vie à son travail
+to feel bound to a firm;se sentir lié à une compagnie
+a workaholic;un bourreau de travail
+to be overwhelmed with joy;être au comble de la joie
+to do extra hours;faire des heures supplémentaires
+to be promoted;être promu
+to get promotion;obtenir une promotion
+motivating;motivant
+engrossing;captivant
+stimulating;stimulant
+efficient;efficace
+competent;compétent
+skilful;adroit
+clumsy;maladroit
+to retire;prendre sa retraite
+to be retired;être retraité
+to live on a pension;vivre d'une pension
+an old-age pension;une pension vieillesse
+to be pensioned off;être mis à la retraite
+John speaking;c'est John à l'appareil
+could I speak to Bill please?;je pourrais parler à Bill s'il vous plaît?
+could I ask who's calling?;je peux prendre votre nom?
+where are you calling from?;d'où téléphonez-vous?
+what company are you calling from?;vous représentez quelle entreprise?
+how do you spell that?;pourriez-vous épeler cela?
+one moment, please;un instant, s'il vous plaît
+hold the line, please;ne quittez pas, s'il vous plaît
+I'll put him on;je vous le passe
+I'm sorry, he's not available at the moment;je suis désolé(e), il n'est pas disponible pour le moment
+he's in a meeting;Il est en réunion
+He's on another call;il est déjà en ligne
+he's not in at the moment;Il est absent pour le moment
+would you like to leave a message?;vous voulez laisser un message?
+could you ask him to call me?;pourriez-vous lui demander de m'appeler? (homme)
+can I take your number?;je peux prendre votre numéro?
+is it convenient to talk at the moment?;je ne vous dérange pas?
+can I call you back?;je peux vous rappeler?
+please call back later;pourriez-vous rappeler plus tard
+thanks for calling;merci d'avoir appelé
+can I use your phone?;je peux utiliser votre téléphone?
+I'm sorry, I'm not interested;je suis désolé(e), cela ne m'intéresse pas
+sorry, I'm busy at the moment;désolé(e), je suis occupé(e)/en rendez-vous pour le moment
+I can't get a dialling tone;je n'ai pas de tonalité
+the line's engaged;la ligne est occupée
+I can't get through at the moment;je n'arrive pas à joindre cette personne pour le moment
+I'm getting an answering machine;je tombe sur un répondeur
+sorry, you must have the wrong number;désolé(e), vous faites erreur
+can you hear me OK?;vous m'entendez?
+I can't hear you very well;je ne vous entends pas très bien
+it's a bad line;la ligne est mauvaise
+could you please repeat that?;vous pourriez répéter, s'il vous plaît?
+I've been cut off;on a été coupé
+do you know the number for ...?;vous connaissez le numéro pour...?
+do you know the address?;vous connaissez l'adresse?
+could you tell me the dialling code for ...?;vous pourriez me donner l'indicatif de ...?
+my battery's about to run out;je n'ai presque plus de batterie
+I'm about to run out of credit;je n'ai presque plus de crédit
+sorry, I ran out of credit;désolé(e), je n'avais plus de crédit
+I can't get a signal;je ne capte pas
+I've got a very weak signal;je capte très mal
+I'll send you a text;je t'enverrai un texto
+could I borrow your phone, please?;je pourrais t'emprunter ton téléphone, s'il te plaît?
+Thank you for calling.;Merci de votre appel.
+to forecast the weather;prévoir le temps
+the weather conditions;les conditions atmosphériques
+the climate;le climat
+temperate;tempéré
+mild;doux (temps)
+changeable;variable (temps)
+unsettled;incertain (temps)
+fair weather;du beau temps
+to shine;briller
+sunny spells;des périodes ensoleillées
+bright intervals;des éclaircies
+a heat wave;une vague de chaleur
+a scorching sun;un soleil de plomb
+the dog days;la canicule
+sultry;étouffant (temps)
+a breeze;une brise
+a gust of wind;un coup de vent
+strong winds;des vents forts
+a gale warning;un avis de coup de vent
+biting;piquant
+a hurricane;un ouragan
+a cyclone ;un cyclone
+a typhoon;un typhon
+a storm;une tempète
+to rage;faire rage
+a thunderstorm;un orage
+a stormy weather;un temps orageux
+a clap of thunder;un coup de tonnerre
+a flash of lightning;un éclair
+to roar;gronder, rugir
+to break out;éclater (se déclarer)
+to be sheltered from;être abrité de (pluie...)
+a lull;une accalmie (tempête)
+a draught;un courant d'air
+to whirl;tourbillonner
+to be blown away;être emporté par le vent
+a cloud;un nuage
+cloudless;dégagé (ciel)
+cloudy;nuageux
+damp;humide
+wet;mouillé
+drenched;trempé
+to clear away;se dégager
+a rainbow;un arc-en-ciel
+a drop of rain;une goutte de pluie
+a rainy weather;un temps pluvieux
+the fog;le brouillard
+below zero;en-dessous de zéro
+icy;glacial
+to freeze;geler
+the frost;le gel
+the black ice;le verglas
+the thaw;le dégel
+a snowfall;une chute de neige
+snowflakes;des flocons de neige
+a snowball;une boule de neige
+a blizzard;une tempête de neige
+a layer;une couche (d'un matériau)
+to melt;fondre
+the hail;la grêle
+a tornado;une tornade
+a flood;une inondation
+the drizzle;la bruine
+a hailstone;un grêlon
+the sleet;la neige fondue
+the mist;la brume
+To depend on tourism;Dépendre du tourisme
+A tourist;Un touriste
+The tourist office;L'office du tourisme
+Touristic;Touristique
+a travel agent;un agent de voyages
+A travel agency;Une agence de voyages
+A travel brochure;Un dépliant touristique
+A travel organization;Un organisme de tourisme
+A tour operator;Un voyagiste
+A package tour;Un voyage organisé
+To go sightseeing;Faire de tourisme
+To tour a country;Visiter un pays
+To go on a tour;Faire un voyage organisé
+To go on a journey;Partir en voyage
+A day trip;Un voyage d'une journée
+A business trip;Un voyage d'affaire
+To travel round the world;Faire le tour du monde
+A traveller;Un voyageur
+To plan a holiday;Préparer des vacances
+The holidays season;La saison des vacances
+The holiday industry;L'industrie du voyage
+On holiday;En vacance
+A holiday-maker;Un vacancier
+abroad;à l'étranger
+To take a day off;Prendre un jour de congé
+The peak tourist season;La haute saison touristique
+The dead season;La morte saison
+At the height of the season;En pleine saison
+To meet the demand;Répondre à la demande
+To book;Réserver
+To confirm a booking;Confirmer une réservation
+To cancel;Annuler
+In the case of cancellation;En cas d'annulation
+To purchase one's ticket;Acheter son ticket
+To have a budget;Avoir un budget
+A single ticket;Un aller simple
+A double ticket;Un aller retour
+To be insured;Etre assuré
+The luggage;Les bagages
+To pack one's bags;Faire ses valises
+To register;Faire enregistrer
+A guide to England;Un guide de l'Angleterre
+To go through the customs;Passer la douane
+A duty-free shop;Un magasin hors-taxes
+The departure;Le départ
+The arrival;L'arrivée
+To invade;Envahir
+Packed with tourists;Bondé de touristes
+To lure;Attirer par la ruse
+To cause trouble;Causer des ennuis
+To ignore;Ne pas tenir compte de
+To spoil;Gâcher
+To take home as a souvenir;Emporter chez soi comme un souvenir
+To respect;Respecter
+To broaden the mind;Elargir l'esprit
+To fly;Voyager en avion
+To rent a car;Louer une voiture
+To ride a bike;Faire du vélo
+To hitchhike;Faire du stop
+A seaside resort;Une station balnéaire
+A spa;Une station thermale
+To sunbathe;Prendre un bain de soleil
+Suntanned;Bronzé
+A sunstroke;Un coup de soleil
+A ski resort;Une station de ski
+To have a rest;Se reposer
+To relax;Se détendre
+To go camping;Faire du camping
+A camp site;Un camping
+To pitch a tent;Planter une tente
+A backpack;Un sac a dos
+A sleeping bag;Un sac de couchage
+A renowned restaurant;un restaurant renommé
+a five-star restaurant;un restaurant cinq étoiles
+a self-service restaurant;un restaurant self-service
+an inn;une auberge
+a caterer;un traiteur
+to cater for;préparer des repas
+a chef;un chef de cuisine
+the gastronomy;la gastronomie
+a gourmet;un gourmet
+vegetarian food;de la nourriture végétarienne
+to enjoy one's meal;aimer son repas
+to have a good appetite;avoir un bon appetit
+to be starving;mourir de faim
+a take-away meal;un repas à emporter
+to order;commander
+wholesome food;de la nourriture saine
+nourishing;nourrissant
+refreshing;raffaichissant
+tasty;savoureux
+crisp;croquant
+crusty;croustillant
+spicy;épicé
+of poor quality;de mauvaise qualité
+unsavoury;d'un goût désagréable
+tasteless;insipide
+a bitter aftertaste;un arrière-goût amer
+greasy;graisseux
+low in fibre;pauvre en fibre
+a variety of;une variété de
+a portion of;une portion de
+to suggest;suggérer
+to complain about sth;se plaindre de qqch
+to foot the bill;payer l'addition
+to overcharge sb for sth;faire payer qqch trop cher à qqun
+tip included;service compris
+an appetizer;un apéritif
+the first course;l'entrée (plat)
+the starter;le hors d'œuvre
+the main course;le plat principal
+today's special;le plat du jour
+fried eggs;des œufs sur le plat
+boiled eggs;des œufs à la coque
+hard-boiled eggs;des œufs durs
+scrambled eggs;des œufs brouillés
+an omelette;une omelette
+spices;des épices
+olive oil;de l'huile d'olive
+tomato sauce;de la sauce tomate
+mashed potatoes;de la purée
+French fries;des frites
+noodles;des nouilles
+sauerkraut;de la choucroute
+a dessert;un dessert
+cheese;du fromage
+shredded cheese;du fromage râpé
+tinned fruit;des fruits en boite
+a fruit salad;un salade de fruit
+the seafood;les fruits de mer
+an ice cream;une glace
+an apple pie;une tarte aux pommes
+a cake;un gâteau
+the wine list;la carte des vins
+to be thirsty;avoir soif
+to pour a drink;verser un verre
+alcoholic drinks;des boissons alcoolisées
+a fruit juice;un jus de fruit
+sparkling water;de l'eau gazeuse
+a pub;un bistrot
+the landlord;l'aubergiste
+the closing time;l'heure de fermeture
+a brand;une marque
+a mug;une chope
+a pint;un demi (bière)
+a bottle opener;un décapsuleur
+a corkscrew;un tire-bouchon
+to uncork;déboucher
+The kitchen cupboard;Le placard de cuisine
+The sink;L'évier
+The tap;Le robinet
+The fridge;Le réfrigérateur
+The freezer;Le congélateur
+The dishwasher;Le lave-vaisselle
+The stove;La gazinière
+The cooker hood;La hotte
+The oven;Le four
+The microwave oven;Le four à micro-ondes
+The mixer;Le mixeur batteur
+The blender;Le mixeur broyeur
+The handheld mixer;Le fouet à main
+The meat mincer;Le hachoir à viande
+The toaster;Le grille-pain
+The coffee maker;La cafetière
+The kettle;La bouilloire
+The teapot;La théière
+The colander;La passoire
+The pressure cooker;La cocotte-minute
+The deep fryer;La friteuse
+The saucepan;La casserole
+The frying pan;La poêle
+The dishware;La vaisselle
+The plate;L'assiette
+The carafe;La carafe
+The glass;Le verre
+The cup;La tasse
+The saucer;La sous-tasse (soucoupe)
+The bowl;Le bol
+The salad bowl;Le saladier
+The kitchen utensils;Les ustensiles de cuisine
+A grater;Une râpe
+A can opener;Un ouvre-boîtes
+a corkscrew;un tire-bouchon
+A bottle opener;Un ouvre-bouteille
+A funnel;Un entonnoir
+A lemon squeezer;Un presse-citron
+A scale;Une balance
+A baking tin;Un moule à pâtisserie
+A vegetable peeler;Un épluche-légumes (un économe)
+A whisk;Un fouet à main
+A chopping board;Une planche à découper
+A spatula;Une spatule
+A skimmer;Un écumoire
+A soup ladle;Une louche
+A rolling pin;Un rouleau à pâtisserie
+The cutlery;Les couverts
+A knife;Un couteau
+A fork;Une fourchette
+A soup spoon;Une cuillère à soupe
+A dessert spoon;Une cuillère à dessert
+A tea spoon;Une cuillère à café
+The kitchen linen;Le linge de cuisine
+A kitchen apron;Un tablier de cuisine
+A tea towel;Un torchon à vaisselle
+An oven mitt;Une manique (gant anti-brûlure)
+construction;la construction (le domaine)
+a structure;une construction
+the thrust;la poussée
+the pressure;la pression
+to exert;exercer
+thick;épais
+thin;fin
+stone;pierre
+to counteract;contrer
+an architect;un architecte
+a column;un poteau (bois ou béton)
+a beam;une poutre (bois ou béton)
+a stanchion;un poteau (métal)
+a girder;une poutre (métal)
+to shear;cisailler
+the shear;le cisaillement
+the stress;la contrainte
+to strain;déformer
+the strain;la déformation
+to design;concevoir
+a component;un composant, un élément
+the dead load;la charge permanente
+the live load;la charge d'exploitation
+to be in use;être en service
+the compression;la compression
+the tension;la traction
+the compressive strength;la résistance à la compression
+the tensile strength;la résistance à la traction
+to push together;comprimer
+to stretch;étirer
+intended to;destiné à
+the balance;l'équilibre
+the roof;le toit
+a floor;un plancher, un étage (intérieur)
+a storey;un étage (extérieur)
+a multi-storey building;un bâtiment à plusieurs étages
+the design department;le bureau d'études
+a draughtsman;un dessinateur
+to work out;élaborer
+strong;résistant
+lasting;durable
+the bill of quantities;le métré
+a quantity surveyor;un métreur
+a site foreman;un chef de chantier
+a site manager;un conducteur de travaux
+to clear;dégager
+to set out;implanter
+to mark out;tracer
+to ensure;s'assurer
+the earthwork;le terrassement
+to dig;creuser
+the framework;la charpente, l'ossature
+a wall;un mur
+to cast;couler
+a formwork;un coffrage
+a wire;un cable
+a sleeve;une gaine
+to set;prendre (pour le béton)
+to harden;durcir
+a tower crane;une grue à tour
+a labourer;un ouvrier non qualifié
+a tradesman;un ouvrier qualifié
+a mason;un maçon
+a carpenter;un charpentier
+a plasterer;un plâtrier
+a tiler;un couvreur, un carreleur
+a plumber;un plombier
+a glazier;un vitrier
+a painter;un peintre
+cement;ciment
+an alloy;un alliage
+iron;fer
+an amount;une quantité
+the fatigue;la fatigue (d'un matériau)
+to weaken;affaiblir
+to strengthen;renforcer
+a mixture;un mélange
+clay;argile
+limestone;calcaire
+to heat;chauffer
+to cool;refroidir
+to grind;écraser
+a powder;une poudre
+sand;sable
+an aggregate;un agrégat
+gravel;le gravier
+grit;les gravillons
+versatile;polyvalent
+to spray;projeter, pulvériser
+a rate;un taux, un rythme, une vitesse
+a rod;une tige, une barre
+to embed;encastrer, enfouir
+reinforced concrete;béton armé
+to occur;se produire
+to bond;lier
+to slip;glisser (involontairement)
+to slide;glisser (volontairement)
+to rust;rouiller
+prestressed concrete;béton précontraint
+to run through;introduire
+a grout;un coulis de ciment, un mortier
+lower;inférieur
+upper;supérieur
+a lift;un ascenseur
+a frame;une charpente
+a skycraper;un gratte-ciel
+a bearing wall;un mur porteur
+a curtain wall;un mur non porteur
+to fasten;attacher
+the riveting;le rivetage
+a welding;une soudure
+to melt;fondre
+The manufacture;La fabrication
+To size;Calibrer
+Silt;Limon
+Workable;Maniable
+A ratio;Un rapport
+A vibrating poker;Un aiguille vibrante
+The sand content;La teneur en sable
+A batch;Un lot
+Stiff;Ferme
+Unworkable;Non maniable
+Coarse;Grossier
+The wet cement;Le ciment jeune
+The fresh cement;Le ciment frais
+A manufacturer;Un fabriquant
+A tensile test;Un essai de traction
+A crushing test;Un essai de compression
+Valid;Valable
+To cast a beam;Couler une poutre
+A reinforcement;Une armature
+The breakage;La rupture
+The modulus of rupture;Le module de rupture
+Roughly;Approximativement
+A figure;Un chiffre
+A rough guess;Une approximation
+The grading;La granulometrie
+To cure;Faire subir une cure
+A curing;Une cure
+Thoroughly;Complètement
+damp;humide
+wet;mouillé
+The cross section;La section transversale
+The deflection;La flèche (déformé d'une poutre)
+To bend;Fléchir
+The axes;L'axe
+To crack;Fissurer
+The rusting;La rouille
+A drawback;Un inconvenient
+A care;Une précaution
+A tendon;Un câble de précontrainte
+An anchorage;Un vérin d'ancrage
+To grip;Saisir
+Tightly;Serré
+The transfer;La transmission
+To be shortened;Rétrécir
+The shortening;Le retrait
+The creep;Le fluage
+To spread;Répartir
+To precast;Préfabriquer
+An admixture;Un adjuvant
+An accelerator of set;Un accelerateur de prise
+A retarder;Un retardeur de prise
+A plasticizer;Un plastifiant
+The roadbuilding;La construction de la route
+the frost;le gel
+to freeze;geler
+The pozzolana;La pouzzolane
+A blast furnace;Un haut-fourneau
+A dam;Un barrage
+a point;un point
+a midpoint;un point central / un milieu
+a horizontal straight line;une ligne droite horizontale
+a vertical straight line;une ligne droite verticale
+a curved line;une ligne courbe
+a broken line;une ligne brisée
+perpendicular lines;des lignes perpendiculaires
+parallel lines;des lignes parallèles
+a square;un carré
+a rectangle;un rectangle
+a triangle;un triangle
+a trapezoid;un trapèze (géométrie)
+a diamond shape;un losange
+an oval;un ovale
+a circle;un cercle
+a half-circle;un demi-cercle
+a hexagon;un hexagone
+a pentagram;un pentagramme
+a disc;Un disque
+a cylinder;un cylindre
+a cube;un cube
+a prism;un prisme
+a sphere;une sphère
+a right angle;un angle droit
+an obtuse angle;un angle obtus
+an acute angle;un angle aigu
+the circumference;la circonférence
+the area;la surface
+a radius ;un rayon (d'un cercle)
+a chord;un corde (d'un cercle)
+the perimeter;le périmètre
+a diagonal;une diagonale
+an artichoke;un artichaud
+an asparagus;une asperge
+a bean;un haricot
+a beetroot;une betterave
+Brussels sprouts;des choux de Bruxelles
+a cabbage;un chou
+a carrot;une carotte
+a cauliflower;un chou-fleur
+a cucumber;un concombre
+fennel;du fenouil
+French beans;des haricots verts
+garlic;de l'aïl
+a leek;un poireau
+lentils;des lentilles
+a lettuce;une laitue
+mint;de la menthe
+an onion;un oignon
+parsley;du persil
+peas;des petits pois
+a potato;une pomme de terre
+a radish;un radis
+sorrel;de l'oseille
+thyme;du thym
+a tomato;une tomate
+watercress;du cresson
+the kidney beans;les fayots
+the marrow;la courge
+the pumpkin;la citrouille
+a zucchini;une courgette
+a spinach;un epinard
+an avocado;un avocat (fruit)
+a turnip;un navet
+a sweet pepper;un poivron
+a mushroom;un champignon
+an eggplant;une aubergine
+an almond;une amande
+an apple;une pomme
+an apricot;un abricot
+a banana;une banane
+a blackberry;une mûre
+black currants;du cassis
+a fig;une figue
+grapes;du raisin
+a grapefruit;un pamplemousse
+a hazelnut;une noisette
+a lemon;un citron
+a lime;un citron vert
+a melon;un melon
+a nectarine;un brugnon
+a nut;une noix
+an orange;une orange
+a peach;une pêche
+a peanut;une cacahuète
+a pear;une poire
+a pineapple;un ananas
+a plum;une prune
+a prune;un pruneau
+a quince;un coing
+a raspberry;une framboise
+a red currant;une groseille rouge
+a strawberry;une fraise
+a mango;une mangue
+a watermelon;une pastèque
+a kiwi;un kiwi
+a passion fruit;un fruit de la passion
+a pomegranate;une grenade (fruit)
+a guava;un goyave
+a mandarin orange;une mandarine
+a coconut;un noix de coco
+a papaya;une papaye
+the sugar cane;la canne a sucre
+ripe;mûr (adj)
+rotten;pourri
+juicy;juteux
+sweet;sucré
+sour;acide
+the joy;la joie
+to weep for joy;pleurer de joie
+the mirth;la gaieté
+the glee;la joie,l'allégresse
+cheerful;plein d'entrain
+pleasured with;content de
+satisfied with;satisfait de
+the satisfaction;la satisfaction
+excited;énervé
+exciting;passionnant
+to my delight;pour mon plus grand plaisir
+delighted;enchanté
+beaming;radieux
+to beam with joy;rayonner de joie
+the happiness;le bonheur
+an optimist;un optimiste
+to be optimistic;être optimiste
+to be overwhelmed with joy;être au comble de la joie
+to be as pleased as Punch;être aux anges
+to be in a good mood;être de bonne humeur
+to revel in sth;prendre grand plaisir à qqch
+to smile at;sourire à
+to grin at;faire un grand sourire à
+to burst out laughing;éclater de rire
+to have an uncontrollable fit;avoir un fou rire
+to giggle;rire nerveusement
+to joke;plaisanter
+to jeer at;se moquer de
+to be the laughing stock of;être la risée de
+sarcastic;sarcastique
+the sorrow;la peine (chagrin)
+to die of grief;mourir de chagrin
+to grieve at sth;avoir du chagrin par rapport à qqch
+the sadness;la tristesse
+to be close to tears;être au bord des larmes
+crocodile tears;des larmes de crocodile
+to weep bitterly;pleurer à chaudes larmes
+to sob;sangloter
+to wail;gémir
+to complain about sth;se plaindre de qqch
+to have a sigh;pousser un soupir
+a pessimist;un pessimiste
+to be pessimistic;être pessimiste
+to be upset;être bouleversé
+to be out of sorts;ne pas être dans son assiette
+peevish;maussade
+gloomy;mélancolique
+to feel blue;broyer du noir
+depressed;déprimé
+to have a nervous breakdown;faire une dépression nerveuse
+to live on one's nerves;vivre sur les nerfs
+the anger;la colère
+to be cross with sth;être en colère contre qqch
+to lose one's temper;se mettre en colère
+to lose one's self-control;perdre son sang-froid
+to take offence at;se vexer de
+to be as cool as a cucumber;garder son sang froid
+a fright;une frayeur
+to dread sth;redouter qqch
+the terror;la terreur
+to be aghast at;être attéré de
+to be scared stiff;avoir une peur bleue
+to be appalled;être épouvanté
+to shudder;frissonner
+formidable;redoutable
+accurate;précis
+ambitious;ambicieux
+brave;brave
+calm;calme
+careful;soigneux
+cautious;prudent
+charitable;charitable
+complacent;content de soi
+conscientious;consciencieux
+courageous;courageux
+daring;audatieux
+dignified;digne
+efficient;efficace (rapide)
+energetic;energique
+experienced;expérimenté
+faithful;fidèle
+frank;franc
+generous;généreux
+gifted;doué
+hard working;travailleur
+helpful;serviable
+honest;honnête
+humane;humain (adj)
+humble;humble
+imaginative;imaginatif
+innocent;innocent
+intuitive;intuitif
+kind;bon (bonté.)
+modest;modeste
+painstaking;assidu
+patient;patient
+polite;poli
+punctual;ponctuel
+reliable;digne de confiance
+sensible;raisonnable
+sensitive;sensible
+sincere;sincère
+skilful;adroit
+studious;studieux
+tactful;délicat
+tenacious;tenace
+tolerant;tolérent
+trustworthy;qui mérite la confiance
+understanding;compréhensif
+unobtrusive;discret
+wise;sage
+absent-minded;étourdi
+arrogant;arrogant
+boastful;vantard
+boisterous;turbulent
+bold;intrépide
+bossy;autoritaire
+brutal;brutal
+careless;insouciant
+cheeky;effronté
+clumsy;maladroit
+contemptuous;méprisant
+cowardly;lâche
+cruel;cruel
+disdainful;dédaigneux
+dishonest;malhonnète
+disobedient;désobéissant
+envious;envieux
+greedy;gourmand
+harmful;malfaisant
+haughty;hautain
+heartless;dur, cruel
+hypocritical;hypocrite
+idle;oisif
+impolite;impoli
+inquisitive;curieux
+insolent;insolent
+jealous;jaloux
+lazy;paresseux
+malicious;malicieux
+mischievous;espiègle
+miserly;avare
+moody;lunatique
+naughty;méchant
+noisy;bruyant
+proud;fier
+self-centred;égocentrique
+selfish;égoïste
+shy;timide
+silly;stupide
+sly;sournois
+stubborn;têtu
+stupid;bête
+supercilious;hautain
+touchy;susceptible
+vain;vaniteux
+a dog;un chien
+a cat;un chat
+a horse;un cheval
+a goldfish;un poisson rouge
+a pig;un cochon
+a cow;une vache
+a sheep;un mouton
+an ewe;une brebis
+a lamb;un agneau
+a goat;une chèvre
+a ram;un bélier
+a bull;un taureau
+a mule;un mulet
+a donkey;un âne
+a rooster;un coq
+a hen;une poule
+a turkey;une dinde
+a chicken;un poulet
+a duck;un canard
+a peacock;un paon
+a goose;une oie
+a stork;une cigogne
+a rabbit;un lapin
+a hare;un lièvre
+a wolf;un loup
+a fox;un renard
+a deer;un chevreuil
+a red deer;un cerf
+a rat;un rat
+a mouse;une souris
+a hamster;un hamster
+a snail;un escargot
+a lizard;un lézard
+a bird;un oiseau
+a pigeon;un pigeon
+a magpie;une pie
+an owl;un hibou
+a crow;une corneille
+a dove;une colombe
+a frog;une grenouille
+a toad;un crapaud
+a snake;un serpent
+a marmot;une marmotte
+a badger;un blaireau
+a squirrel;un écureuil
+a bat;une chauve-souris
+an insect;un insecte
+a cockroach;un cafard
+an ant;une fourmi
+a fly;une mouche
+a mosquito;un moustique
+a spider;une araignée
+a bee;une abeille
+a wasp;une guèpe
+a bumble-bee;un bourdon
+a butterfly;un papillon
+a parrot;un perroquet
+a budgerigar;une perruche
+a giraffe;une girafe
+a hippopotamus;un hippopotame
+a kangaroo;un kangourou
+a camel;un chameau
+a dromedary;un dromadaire
+a crocodile;un crocodile
+an alligator;un alligator
+a warthog;un phacochère
+an eagle;un aigle
+a reindeer;un renne
+an ostrich;une autruche
+an emu;un émeu
+a rhinoceros;un rhinocéros
+an antelope;une antilope
+a lion;un lion
+a tiger;un tigre
+a panther;une panthère
+a leopard;un léopard
+a zebra;un zèbre
+a monkey;un singe
+a gorilla;un gorille
+a chimpanzee;un chimpanzé
+a whale;une baleine
+a fish;un poisson
+a trout;une truite
+a cod;un cabillaud
+a sea horse;un hippocampe
+a salmon;un saumon
+a tuna;un thon
+a shark;un requin
+a dolphin;un dauphin
+an orc;un orque
+a turtle;une tortue de mer
+a tortoise;une tortue de terre
+a shrimp;une crevette
+a crab;un crabe
+a lobster;un homard
+a mussel;une moule
+an offspring;un petit (d'un animal)
+the livestock;le bétail
+the cattle;les bovins
+A baby;Un bébé
+A child;Un enfant
+A teenager;Un adolescent
+An adult;Un adulte
+The father;Le père
+The mother;La mère
+The son;Le fils
+The daughter;La fille
+The wife;L'épouse
+The husband;L'époux
+The grandparents;Les grands-parents
+The grandchildren;Les petits-enfants
+The in-laws;La belle famille (famille du conjoint)
+The sister-in-law;La belle-soeur
+The stepmother;La belle-mère (nouvelle femme du père)
+The cousin;Le / la cousin(e)
+The nephew;Le neveu
+The niece;La nièce
+The uncle;L'oncle
+The aunt;La tante
+The birth;La naissance
+Alive;Vivant
+The childhood;L'enfance
+The teenage;L'adolescence
+The youth;La jeunesse
+The adulthood;L'âge adulte
+The old age;La vieillesse
+The death;La mort
+Dead;Décédé
+The engagement;Les fiançailles
+The wedding;Le mariage
+The honeymoon;La lune de miel
+To have children;Avoir des enfants
+To grow up;grandir
+To be under age;Être mineur
+To be in one's teens;Être adolescent
+To come of age;Devenir majeur
+To bring up children;Élever les enfants
+To meet;se rencontrer
+To fall in love;Tomber amoureux
+To get engaged;Se fiancer
+To get married;Se marier
+To get along with;Bien s'entendre avec
+To have an argument;Se disputer
+To divorce;divorcer
+To support a family;Subvenir aux besoins de sa famille
+the offspring ;La progéniture
+The head;La tête
+The neck;Le cou
+The shoulder;L'épaule
+The upper arm;Le bras
+The elbow;Le coude
+The forearm;L'avant bras
+The wrist;Le poignet
+The hand;La main
+The finger;Le doigt
+The hip;La hanche
+The thigh;La cuisse
+The knee;Le genou
+The leg;La jambe
+The ankle;La cheville
+The foot;Le pied
+The toes;Les orteils
+The chest;Le thorax
+The abdomen;L'abdomen
+The palm;La paume (de la main)
+The thumb;Le pouce
+The forefinger;L'index
+The middle finger;Le majeur
+The ring finger;L'annulaire
+The little finger;L'auriculaire
+A nail;Un ongle
+The hair;Les cheveux
+The forehead;Le front
+The eyebrows;Les sourcils
+The eyes;Les yeux
+The eyelashes;Les cils
+The eyelid;La paupière
+The nose;Le nez
+The mouth;La bouche
+The lips;Les lèvres
+The chin;Le menton
+The cheek;La joue
+The ear;L'oreille
+The throat;La gorge
+The skull;Le crâne
+The face;La face
+The spine;La colonne vertébrale
+The collar bone;La clavicule
+The shoulder blade;L'omoplate
+The breast bone;Le sternum
+The ribs;Les côtes
+The humerus;L'humérus
+The radius;Le radius
+The ulna;Le cubitus
+The carpus;Les carpes
+The metacarpals;Les métacarpes
+The phalanx;La phalange
+The ilium;L'os iliaque
+The sacrum;Le sacrum
+The femur;Le fémur
+The patella;La rotule
+The tibia;Le tibia
+The fibula;Le péroné
+The metatarsals;Les métatarses
+The larynx;Le larynx
+The jugular vein;La veine jugulaire
+The thyroid gland;La thyroïde
+The trachea;La trachée
+The thymus gland;Le thymus
+the vein;La veine
+The trunk;L'artère
+The bronchus;Les bronches
+The bronchioles;Les bronchioles
+The lungs;Les poumons
+The heart;Le coeur
+The sternum;Le sternum
+The diaphragm;Le diaphragme
+The aorta;L'aorte
+The liver;Le foie
+The gallbladder;La vésicule biliaire
+The pancreas;Le pancréas
+The spleen;La rate
+The stomach;L'estomac
+The colon;Le colon
+The small intestine;L'intestin grêle
+The appendix;L'appendice
+The kidney;Le rein
+the urethra;L'urètre
+The bladder;La vessie
+to abort;avorter
+an abortion;une IVG, un avortement
+an ache;une douleur
+the birth control;la contraception, le contrôle des naissances
+to bleed;saigner
+blind;aveugle
+the blood;le sang
+the care;l'attention
+to care;prendre soin
+a chemist;un pharmacien
+a condom;un préservatif
+to cough;tousser
+the cough;la toux
+to cure;guérir
+deaf;sourd
+a diagnosis;un diagnostic
+a disability;un handicap
+dumb;muet
+the fever;la fièvre
+the flu;la grippe
+to have an X-ray;passer une radio
+a headache;un mal de tête
+to heal;guérir
+the health;la santé
+healthy;sain
+to infect;infecter
+a nurse;une infirmière
+to operate;opérer
+to prescribe;prescrire
+a prescription;une ordonnance
+to recover;guérir
+a scar;une cicatrice
+to shake;trembler
+to be sick with sth;être malade de qqch
+a side effect;un effet secondaire
+to sneeze;éternuer
+to suffer from sth;souffrir de qqch
+a surgeon;un chirurgien
+a surgery;une opération
+the surgery;la chirurgie (domaine)
+to sweat;suer
+to treat;traiter, soigner
+a treatment;un traitement médical
+to vomit;vomir
+a wound;une blessure
+the beard;la barbe
+The head;La tête
+the freckles;les tâches de rousseur
+The mouth;La bouche
+the tooth;la dent
+the ears;les oreilles
+The cheek;La joue
+the cheek bone;la pommette
+the clothes;les vêtements
+the legs;les jambes
+a mole;un grain de beauté
+the wrinkles;les rides
+the glasses;les lunettes
+pleasant;agréable
+tall;grand
+medium-sized;de taille moyenne
+suntanned;bronzé
+pale;pâle
+long arms;des bras longs
+wrinkled;ridé
+with a moustache;moustachu
+anorexic;anorexique
+slim;mince
+thin;fin
+slender;svelte
+skinny;maigre
+muscular;musclé
+chubby;potelé, rondelet
+well-built;bien bâti(e)
+hazel eyes;des yeux noisette
+almond-shaped eyes;des yeux en amande
+beautiful eyes;de beaux yeux
+sparkling eyes;des yeux pétillants
+piercing eyes;des yeux perçants
+slanted eyes;des yeux bridés
+doe eyes;des yeux de gazelle
+crows' feet;des pattes d'oies
+arched eyebrows;des sourcils arqués
+bushy eyebrows;des sourcils broussailleux
+thin eyebrows;des sourcils minces
+an aquiline nose;un nez aquilin
+a straight nose;un nez droit
+a broad nose;un nez large
+a hawk nose;un nez faucon
+a snub nose;un nez retroussé
+a flat nose;un nez plat
+a wide mouth;une large bouche
+thin lips;des lèvres minces
+full lips;des lèvres pleines
+pouting lips;des lèvres boudeuses
+pursed lips;des lèvres pincées
+swollen lips;des lèvres gonflées
+fair hair;des cheveux clairs
+ash-blond hair;des cheveux blonds cendrés
+auburn hair;des cheveux auburn (châtain + roux)
+light brown hair;des cheveux bruns clairs
+chestnut hair;des cheveux châtains
+curly hair;des cheveux frisés
+wavy hair;des cheveux ondulés
+straight hair;des cheveux raides
+frizzy hair;des cheveux crépus
+messy hair;des cheveux en pétard
+tousle-haired;des cheveux ébouriffés
+tangled hair;des cheveux emmêles
+a ponytail;une queue de cheval
+bald;chauve
+bleached hair;des cheveux décolorés
+dyed hair;des cheveux teints
+highlighted hair;des mèches
+permed hair;des cheveux permanentés
+weaved hair;des cheveux tressés
+a long face;un visage long
+a square face;un visage carré
+a freckled face;un visage plein de tâches de rousseur
+a wrinkled face;un visage ridé
+a spotless face;un visage impeccable
+a rosy face;un visage rose
+a ruddy face;un visage rougeaud
+a tanned face;un visage bronzé
+a pale face;un visage pâle
+dark-skinned;à peau brune
+tan-skinned;à peau mâte
+fair-skinned;à peau claire
+light-skinned;à peau claire
+a clog chin;un menton en galoche
+a double chin;un double menton
+a pointy chin;un menton pointu
+a prominent chin;un menton saillant
+a receding chin;un menton fuyant
+a square chin;un menton carré
+hollow cheeks;des joues creuses
+round cheeks;des joues rondes
+pinky cheeks;des joues roses
+red cheeks;des joues rouges
+sagging cheeks;des joues pendantes
+a dimple;une fossette
+a prominent cheek bone;une pommette saillante
+a baby;un bébé (0 - 2 ans)
+a toddler;un bambin (2 - 5 ans)
+a child;un enfant (0 - 10 ans)
+a teenager;un adolescent (10 - 19 ans)
+a young adult;un jeune adulte (18 - 30 ans)
+An adult;Un adulte
+middle aged;d'âge moyen
+mature;d'âge mûr
+elderly;âgé, troisième âge
+cloth;tissu
+cotton;coton
+wool;laine
+linen;lin
+silk;soie
+man-made fibres;fibre synthétique
+lace;dentelle
+coal;charbon
+rubber;caoutchouc
+leather;cuir
+paper;papier
+cardboard;carton
+sand;sable
+cement;ciment
+brick;brique
+stone;pierre
+glass;verre
+marble;marbre
+clay;argile
+iron;fer
+copper;cuivre
+gold;or
+silver;argent (matière)
+lead;plomb
+tin;étain
